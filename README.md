@@ -1,7 +1,7 @@
 # Face-Detection-System-Using-Python
 Is a technology capable to identify and verify people age from images.
 
-For developing this we use pygame for Digit Board. And used python libraries like Numpy, Matplotlib, Keras etc.
+For developing this we use python libraries like Numpy, Matplotlib, Keras etc.
 
 **Integrated Development Environment (IDE):** Choose an IDE to write and execute your Python code. Popular choices include:
   
